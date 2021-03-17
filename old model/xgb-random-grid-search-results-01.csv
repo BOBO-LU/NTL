@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_subsample,param_scale_pos_weight,param_min_child_weight,param_max_depth,param_gamma,param_colsample_bytree,params,split0_test_score,split1_test_score,mean_test_score,std_test_score,rank_test_score
+924.0711944103241,0.5138545036315918,1.6090596914291382,0.14822375774383545,0.6,0.1,5,5,1,0.8,"{'subsample': 0.6, 'scale_pos_weight': 0.1, 'min_child_weight': 5, 'max_depth': 5, 'gamma': 1, 'colsample_bytree': 0.8}",0.8677152038260125,0.8663166592701689,0.8670159315480908,0.0006992722779218252,1
